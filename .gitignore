@@ -1,0 +1,29 @@
+﻿ # OS / IDE junk
+.DS_Store
+Thumbs.db
+.idea/
+.vscode/
+
+# Build artifacts
+build*/
+cmake-build-*/
+CMakeFiles/
+CMakeCache.txt
+Makefile
+*.o
+*.obj
+*.pdb
+*.ilk
+*.exe
+*.dll
+*.lib
+*.so
+*.a
+
+# Logs
+*.log
+server.log
+
+# Temporary
+*.tmp
+*.bak
